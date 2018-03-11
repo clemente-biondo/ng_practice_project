@@ -1,0 +1,25 @@
+{
+  "name": "ng_practice_project",
+  "version": "1.0.0",
+  "description": "A project where my fellow colleagues can experience the use of git, angularjs, material angular and other frontend development toosl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clemente-biondo/ng_practice_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clemente-biondo/ng_practice_project/issues"
+  },
+  "homepage": "https://github.com/clemente-biondo/ng_practice_project#readme",
+  "dependencies": {
+    "angular": "^1.6.9"
+  },
+  "devDependencies": {
+    "webpack": "^4.1.1"
+  }
+}
