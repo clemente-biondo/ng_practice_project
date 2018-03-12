@@ -4,8 +4,9 @@
   "description": "A project where my fellow colleagues can experience the use of git, angularjs, material angular and other frontend development toosl",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
-    "server": "node server.js"
+    "server": "node server.js --open"
   },
   "repository": {
     "type": "git",
@@ -29,6 +30,7 @@
     "style-loader": "^0.20.3",
     "webpack": "^4.1.1",
     "webpack-cli": "^2.0.11",
-    "webpack-dev-middleware": "^3.0.1"
+    "webpack-dev-middleware": "^3.0.1",
+    "webpack-hot-middleware": "^2.21.2"
   }
 }

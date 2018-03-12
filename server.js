@@ -14,5 +14,8 @@ app.use(webpackDevMiddleware(compiler, {
 
 // Serve the files on port 3000.
 app.listen(3000, function () {
-  console.log('Express server listening on port 3000!\n');
+  console.log('Dev server listening on port 3000!\n');
 });
+
+//adds webpack-hot-middleware attached to the same compiler instance
+app.use(require("webpack-hot-middleware")(compiler));
