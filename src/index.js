@@ -1,13 +1,5 @@
-import angular from 'angular';
-
-const PRACTICE_MODULE_NAME = 'practiceProjectModule';
-// creates a the project module
-angular.module(PRACTICE_MODULE_NAME, []);
-
-
+import app from './app/app';
 if (module.hot) {
   module.hot.accept();
 }
-
-export default PRACTICE_MODULE_NAME;
 

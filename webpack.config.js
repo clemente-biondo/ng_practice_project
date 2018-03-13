@@ -13,7 +13,9 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(['dist']),
     new HtmlWebpackPlugin({
-      title: 'Practice Project'
+      title: 'Practice Project',
+      template: './src/app/app.html',
+      inject: 'body'      
     }),
     new webpack.NamedModulesPlugin(),
     new webpack.HotModuleReplacementPlugin(),
@@ -23,6 +25,23 @@ module.exports = {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist'),
     publicPath: '/'
+  },
+  module: {
+    rules: [
+      {
+        test: /\.html$/,
+        use: [
+          'html-loader'
+        ]
+      },
+      {
+        test: /\.css$/,
+        use: [
+          'style-loader',
+          'css-loader'
+        ]
+     }
+    ]
   }
 
 };
