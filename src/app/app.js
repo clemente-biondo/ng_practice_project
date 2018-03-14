@@ -9,6 +9,8 @@ import appCss from './app.css';
 import appConfiguration from './app.config';
 import EmployeeRepository from './common/repository/EmployeeRepository.js';
 
+//This is part where we set app cpnstant, with module name 'practiceProjectApp' and 
+// all dependencies inside square brackets "[...]" and with config and service
 const app=angular
   .module('practiceProjectApp', [ngMessages,ngRoute,ngAnimate,ngAria,ngMaterial])
   .config(appConfiguration)
