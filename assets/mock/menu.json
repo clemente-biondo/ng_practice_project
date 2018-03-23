@@ -1,0 +1,331 @@
+{
+    "menu":[ {
+      "TITLE" : "Change Company",
+      "CATEGORY" : "SIIWEB",
+      "LINK" : "https://siiweb.eng.it/siiweb/profiling.login.cambioAzienda.do"
+    }, {
+      "TITLE" : "Affida dipendente",
+      "CATEGORY" : "Employees",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&\\act=SIALHR_AFFIDA_DIP"
+    }, {
+      "TITLE" : "Employees Vacations",
+      "CATEGORY" : "Employees",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&act=APPROVAZIONE_WEB_ASS"
+    }, {
+      "TITLE" : "Absences for Third Parties",
+      "CATEGORY" : "Employees",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&act=ASS_INS_TERZI"
+    }, {
+      "TITLE" : "Emp Time Postings",
+      "CATEGORY" : "Employees",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&act=SIALHR_GEST_TIMB"
+    }, {
+      "TITLE" : "Load time postings logbook",
+      "CATEGORY" : "Employees",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&act=LOAD_REGISTRO_TIMB"
+    }, {
+      "TITLE" : "Employess RAS",
+      "CATEGORY" : "Employees",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&\\act=SIALHR_ELENCO_RAS"
+    }, {
+      "TITLE" : "Costo Risorse in Reskilling",
+      "CATEGORY" : "Employees",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialco&act=SIALCO_RESKILLING"
+    }, {
+      "TITLE" : "Allowance - OnCall",
+      "CATEGORY" : "Employees",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&act=RICHIESTA_REPERIBILITA"
+    }, {
+      "TITLE" : "Request Authorizations Study",
+      "CATEGORY" : "Employees",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&act=RICHIESTA_STUDIO"
+    }, {
+      "TITLE" : "Employees training",
+      "CATEGORY" : "Employees",
+      "LINK" : "https://siiweb.eng.it/siiweb/https://siiweb.eng.it/sifo/approvazione/index.html?op=gest"
+    }, {
+      "TITLE" : "Handling Organic",
+      "CATEGORY" : "Employees",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweb.morgan.mostramovimentoorganico.start.do?popup=true"
+    }, {
+      "TITLE" : "Absences",
+      "CATEGORY" : "Modules",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&act=GESTIONE_ASSENZE"
+    }, {
+      "TITLE" : "Absence summary",
+      "CATEGORY" : "Modules",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&act=SIALHR_INQ_FEPER"
+    }, {
+      "TITLE" : "Time Postings",
+      "CATEGORY" : "Modules",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&act=SIALHR_INS_TIMB"
+    }, {
+      "TITLE" : "Timesheet & Travel Emp",
+      "CATEGORY" : "Modules",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=rasria&\\act=JWS_RASRIA"
+    }, {
+      "TITLE" : "RAS External Consultant",
+      "CATEGORY" : "Modules",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&\\act=SIALMM_RAS_ESTERNI_ESTERNO"
+    }, {
+      "TITLE" : "P7 Richiesta Viaggio",
+      "CATEGORY" : "Modules",
+      "LINK" : "http://intranet.eng.it/alfresco/wcservice/api/node/content/workspace/SpacesStore/d365a65a-40e6-4253-8f36-e5be38541d59/MD01_PGP10_0_Mod_P7_Richiesta_Viaggio_Albergo_Auto.doc"
+    }, {
+      "TITLE" : "EngCV",
+      "CATEGORY" : "Modules",
+      "LINK" : "https://engcv.eng.it/skillcv/pages/gestioneSialCvEsperienze.xhtml"
+    }, {
+      "TITLE" : "Lettere Incarico Privacy",
+      "CATEGORY" : "Modules",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&\\act=SIALHR_ELENCO_LETT_INCARICO"
+    }, {
+      "TITLE" : "External Registry",
+      "CATEGORY" : "External Consultants",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=SIALMM_LISTA_ESTERNI"
+    }, {
+      "TITLE" : "TS External Consultants",
+      "CATEGORY" : "External Consultants",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&\\act=SIALMM_RAS_ESTERNI"
+    }, {
+      "TITLE" : "Registry",
+      "CATEGORY" : "INTERNAL ORDER",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialco&act=SIALCO_ELE_ANAG_COMM"
+    }, {
+      "TITLE" : "Transfer Price/Cost",
+      "CATEGORY" : "INTERNAL ORDER",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialco&\\act=SIALCO_TRANSFER_PRICE"
+    }, {
+      "TITLE" : "Dashboard",
+      "CATEGORY" : "INTERNAL ORDER",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweb.anagrafe.selezionecommessa.start.do?popup=true&evento=cruscotto"
+    }, {
+      "TITLE" : "Activities",
+      "CATEGORY" : "INTERNAL ORDER",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweb.anagrafe.selezionecommessa.start.do?popup=true&evento=attivita"
+    }, {
+      "TITLE" : "Price List",
+      "CATEGORY" : "INTERNAL ORDER",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweb.anagrafe.selezionecommessa.start.do?popup=true&evento=listino"
+    }, {
+      "TITLE" : "Canons",
+      "CATEGORY" : "INTERNAL ORDER",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweb.anagrafe.selezionecommessa.start.do?popup=true&evento=canone"
+    }, {
+      "TITLE" : "Events",
+      "CATEGORY" : "INTERNAL ORDER",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweb.anagrafe.selezionecommessa.start.do?popup=true&evento=eventi"
+    }, {
+      "TITLE" : "Caricamento eventi ricavo",
+      "CATEGORY" : "INTERNAL ORDER",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialco&act=CARICAMENTI_EVENTI_RICAVI"
+    }, {
+      "TITLE" : "Purchase Request",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=RICERCA_A2"
+    }, {
+      "TITLE" : "Release PRs",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&\\act=APPR_MULT_RDA"
+    }, {
+      "TITLE" : "Purchase Orders",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=RICERCA_ODA"
+    }, {
+      "TITLE" : "Pianifica EM",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/em/pianificazione"
+    }, {
+      "TITLE" : "Release Goods Recipt",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=SIALMM_APPROVA_EM"
+    }, {
+      "TITLE" : "Intercompany Cost Proposals",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&\\act=SIALMM_MOV_INFRA"
+    }, {
+      "TITLE" : "Invoices waiting for Billing",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=SIALMM_LISTA_FAT_SUB_INC"
+    }, {
+      "TITLE" : "Centralized Order",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=ORDINI_ACQUISTO_CENTRALIZZATI"
+    }, {
+      "TITLE" : "Direction of External Advice ",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=SIALMM_GESTIONE_DIRCE"
+    }, {
+      "TITLE" : "Table Commodity Categories",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=TAB_CATEG_MERC"
+    }, {
+      "TITLE" : "PAGE Mgmt",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&\\act=SIALMM_PRO_FORMA"
+    }, {
+      "TITLE" : "Make T&M Approvals to Invoice",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&\\act=SIALMM_GEST_AAF"
+    }, {
+      "TITLE" : "Modalita' Fatturazione Fornitori",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&\\act=SIALMM_CHANGE_PAGE"
+    }, {
+      "TITLE" : "List of T&M Approvals Issued to Invoice",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&\\act=SIALMM_ELENCO_AAF"
+    }, {
+      "TITLE" : "Accounting Change Purchase Order ",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=SIALMM_CAMBIO_TIPO_CONTABILIZZAZIONE"
+    }, {
+      "TITLE" : "Delegations PR",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=SIALMM_GESTIONE_DELEGHE"
+    }, {
+      "TITLE" : "Tabella Tipo Attivita",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=TAB_TIPO_ATT"
+    }, {
+      "TITLE" : "Consultoria parc. Mensais",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=SIALMM_EM_DA_RAS_A_FISSO_MENSILE"
+    }, {
+      "TITLE" : "Purchase Invoices",
+      "CATEGORY" : "Purchase Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweb.fatturazioneattiva.gpfweb.start.do?popup=true"
+    }, {
+      "TITLE" : "Insert Billing L2",
+      "CATEGORY" : "Sales Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweb.fatturazioneattiva.inputfogliofatturazione.start.do?popup=true"
+    }, {
+      "TITLE" : "Billing Order",
+      "CATEGORY" : "Sales Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialsd&act=SIALSD_LISTA_ODF"
+    }, {
+      "TITLE" : "Contract Registry ",
+      "CATEGORY" : "Sales Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialsd&act=SIALSD_ELE_ANAG_CONTR"
+    }, {
+      "TITLE" : "Billing Plan",
+      "CATEGORY" : "Sales Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialsd&act=SIALSD_LISTA_PDF"
+    }, {
+      "TITLE" : "Billing Order on CdC",
+      "CATEGORY" : "Sales Management",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialsd&act=SIALSD_LISTA_ODF_PER_CDC"
+    }, {
+      "TITLE" : "Employees History",
+      "CATEGORY" : "Manage Workers",
+      "LINK" : "https://siiweb.eng.it/siiweb/app/act_gd/dipendenti"
+    }, {
+      "TITLE" : "Utenze",
+      "CATEGORY" : "Manage Workers",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&act=SIALHR_AUTO_CELL_UTENZE"
+    }, {
+      "TITLE" : "CMM - RAS",
+      "CATEGORY" : "Manage Workers",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialweb&act=DETTAGLIO_RAS_PROJLEAD"
+    }, {
+      "TITLE" : "Cost Center Hierarchy",
+      "CATEGORY" : "Cost Centers",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialco&act=SIALCO_GST_SEGOPCDC"
+    }, {
+      "TITLE" : "SIAL Reports",
+      "CATEGORY" : "Reports",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialco&act=SIALCO_ELENCO_REPORT"
+    }, {
+      "TITLE" : "Parameters Mgmt",
+      "CATEGORY" : "Reports",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialco&act=SIALCO_GESTPAR_REPORT"
+    }, {
+      "TITLE" : "Change Language",
+      "CATEGORY" : "Preferences",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&act=SWL_CAMBIO_LINGUA"
+    }, {
+      "TITLE" : "Modifica PIN SARA",
+      "CATEGORY" : "Preferences",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&\\act=SIALHR_GEST_PIN"
+    }, {
+      "TITLE" : "Back Office Functions",
+      "CATEGORY" : "Utility",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweb.backoffice.lanciastoredfunction.start.do?popup=true&evento=elencaFunzioni"
+    }, {
+      "TITLE" : "Log Ras Monitor sent to Sap",
+      "CATEGORY" : "Utility",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialmm&act=LOG_RAS_SAP"
+    }, {
+      "TITLE" : "Skill Inventory",
+      "CATEGORY" : "More Web Application",
+      "LINK" : "https://skill.eng.it"
+    }, {
+      "TITLE" : "Pianificazione ferie",
+      "CATEGORY" : "More Web Application",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&act=SIALHR_PIANIF_FERIE"
+    }, {
+      "TITLE" : "Caricamento Certificazioni",
+      "CATEGORY" : "SCHOOL",
+      "LINK" : "https://siiweb.eng.it/siiweb/siiweblite.bridge?app=sialhr&\\act=CARICAM_CERTIFICAZ"
+    }, {
+      "TITLE" : "Opportunities",
+      "CATEGORY" : "OrME",
+      "LINK" : "https://orme.eng.it/orme/appact/trattative"
+    }, {
+      "TITLE" : "Add Opportunity",
+      "CATEGORY" : "OrME",
+      "LINK" : "https://orme.eng.it/orme/appact/trattativa/ins"
+    }, {
+      "TITLE" : "Add Activity",
+      "CATEGORY" : "OrME",
+      "LINK" : "https://orme.eng.it/orme/appact/activities/ins"
+    }, {
+      "TITLE" : "Add Stakeholder",
+      "CATEGORY" : "OrME",
+      "LINK" : "https://orme.eng.it/orme/appact/referente/ins"
+    }, {
+      "TITLE" : "Customer List",
+      "CATEGORY" : "OrME",
+      "LINK" : "https://orme.eng.it/orme/appact/clienti"
+    }, {
+      "TITLE" : "Add Customer",
+      "CATEGORY" : "OrME",
+      "LINK" : "https://orme.eng.it/orme/appact/cliente/ins"
+    }, {
+      "TITLE" : "C12 List",
+      "CATEGORY" : "OrME",
+      "LINK" : "https://orme.eng.it/orme/appact/listaC12"
+    }, {
+      "TITLE" : "Activities",
+      "CATEGORY" : "OrME",
+      "LINK" : "https://orme.eng.it/orme/appact/activity"
+    }, {
+      "TITLE" : "Organization Units",
+      "CATEGORY" : "OrME",
+      "LINK" : "https://orme.eng.it/orme/appact/struttOrg"
+    }, {
+      "TITLE" : "Dashboard",
+      "CATEGORY" : "OrME",
+      "LINK" : "https://orme.eng.it/orme/appact/cruscotto"
+    }, {
+      "TITLE" : "Sales Trend",
+      "CATEGORY" : "OrME",
+      "LINK" : "https://orme.eng.it/orme/appact/sales_trend"
+    }, {
+      "TITLE" : "Manage personal cards",
+      "CATEGORY" : "TravellENG",
+      "LINK" : "https://siiweb.eng.it/siiweb/act/tessere"
+    }, {
+      "TITLE" : "Your travels",
+      "CATEGORY" : "TravellENG",
+      "LINK" : "https://siiweb.eng.it/siiweb/act/elenco_viaggiatore"
+    }, {
+      "TITLE" : "Viaggi Collettivi",
+      "CATEGORY" : "TravellENG",
+      "LINK" : "https://siiweb.eng.it/siiweb/act/viaggi_collettivi"
+    }, {
+      "TITLE" : "New travel",
+      "CATEGORY" : "TravellENG",
+      "LINK" : "https://siiweb.eng.it/siiweb/act/ins"
+    } ]
+    }

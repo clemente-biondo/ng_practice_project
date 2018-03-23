@@ -1,0 +1,2349 @@
+[ {
+    "ticketId" : 12539203,
+    "ticketSubsystem" : "OMASSC12  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E8313   ",
+    "ticketSenderLastName" : "GALIMBERTI",
+    "ticketSenderFirstName" : "RENATA",
+    "ticketAbstract" : "C12 Pre-Offerta  per trattativa 107802 vers. 0.2",
+    "ticketCreationDate" : "2018-03-20T11:39:55Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Commissioned C12"
+    }, {
+      "key" : "Opportunity :",
+      "value" : "GIS4GAS Evolutive 1 Trimestre 2018,"
+    }, {
+      "key" : "Customer:",
+      "value" : "0000100591  ,"
+    }, {
+      "key" : "Tec.Org.Unit:",
+      "value" : "KPULG12,"
+    }, {
+      "key" : "Sal.Org.Unit:",
+      "value" : "1ULG12,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "codTrattativa",
+      "value" : "107802,"
+    } ]
+  }, {
+    "ticketId" : 12539204,
+    "ticketSubsystem" : "APPMASA2  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E6395   ",
+    "ticketSenderLastName" : "MARTINI",
+    "ticketSenderFirstName" : "STEFANO",
+    "ticketAbstract" : "47.280,00 EUR   Auto Aziendali KP26CCT6 FI.2305      FORNITORE DA DEFINIRE  prox:claudio.biestro@en",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "R.d.A. da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "361185,"
+    }, {
+      "key" : "Tipo Operazione :",
+      "value" : "approva,"
+    }, {
+      "key" : "Emittente :",
+      "value" : "anna.scacchi@eng.it,"
+    }, {
+      "key" : "cdc :",
+      "value" : "KP26CCT6,"
+    }, {
+      "key" : "Commessa :"
+    }, {
+      "key" : "Prossimo Approvatore :",
+      "value" : "claudio.biestro@eng.it,"
+    }, {
+      "key" : "Stato :",
+      "value" : "In elaborazione,"
+    }, {
+      "key" : "Tipologia :",
+      "value" : "Auto Aziendali,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "FI.2305      FORNITORE DA DEFINIRE,"
+    }, {
+      "key" : "Totale Ordinato :",
+      "value" : "47.280,00,"
+    }, {
+      "key" : "Motivo Approvazione :",
+      "value" : "51 - Auto, Cellulari e Data Card: necessaria autorizzazoine del Direttore Generale di Divisione,"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "Descrizione : Rinnovo A, Qta : 4, Prezzo Unitario : 11.820, Importo : 47.280, Matricola Lav: E11648  , Nome : PIERLUIGI, Cognome : PLUVIANO,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "RdA",
+      "value" : "361185,"
+    } ]
+  }, {
+    "ticketId" : 12539205,
+    "ticketSubsystem" : "OMASSC12  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E4333   ",
+    "ticketSenderLastName" : "LENZI",
+    "ticketSenderFirstName" : "GIUSEPPE",
+    "ticketAbstract" : "C12 Pre-Offerta  per trattativa 107844 vers. 0.1",
+    "ticketCreationDate" : "2018-03-20T11:40:03Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Commissioned C12"
+    }, {
+      "key" : "Opportunity :",
+      "value" : "Add-on\" Service Pack Cloud + Moduli Net@INF2.0 & Net@Hermes3.0 - ID_698,"
+    }, {
+      "key" : "Customer:",
+      "value" : "0000102146  ,"
+    }, {
+      "key" : "Tec.Org.Unit:",
+      "value" : "KPULM43,"
+    }, {
+      "key" : "Sal.Org.Unit:",
+      "value" : "1ULM20,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "codTrattativa",
+      "value" : "107844,"
+    } ]
+  }, {
+    "ticketId" : 12539206,
+    "ticketSubsystem" : "ODF_2F    ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E1895   ",
+    "ticketSenderLastName" : "PERONGINI",
+    "ticketSenderFirstName" : "STEFANO",
+    "ticketAbstract" : "Approvazione ODF 475714 in 2F",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione ODF in Seconda firma"
+    }, {
+      "key" : "COdice Ordine :",
+      "value" : "475714,"
+    }, {
+      "key" : "COdice Cliente :",
+      "value" : "21541,"
+    }, {
+      "key" : "Codice Fattura :"
+    }, {
+      "key" : "Stato :",
+      "value" : "R,"
+    }, {
+      "key" : "contratto :",
+      "value" : "GBNL-17/422,"
+    }, {
+      "key" : "Cliente :",
+      "value" : "21541,"
+    }, {
+      "key" : "mod.pagamento :",
+      "value" : "13,"
+    }, {
+      "key" : "Aliquota iva :",
+      "value" : "22,"
+    }, {
+      "key" : "Causale :",
+      "value" : "101,"
+    }, {
+      "key" : "Tipo fattura :",
+      "value" : "K,"
+    }, {
+      "key" : "Data scadenza :"
+    }, {
+      "key" : "Bolla :"
+    }, {
+      "key" : "Data Bolla :"
+    }, {
+      "key" : "Nota inizio :",
+      "value" : "ODA  4500249802 (CONTRATTO DI SERVIZIO - PROGETTO IT170049 - AGENZIE ASIA EUROPA WAVE 2 - 2017),"
+    }, {
+      "key" : "Nota fine :"
+    }, {
+      "key" : "Nota su ordine :"
+    }, {
+      "key" : "Nostro riferimento"
+    }, {
+      "key" : "Data nostro rif. :"
+    }, {
+      "key" : "riferimento cliente :"
+    }, {
+      "key" : "Data rif. cliente :"
+    }, {
+      "key" : "Allegati :",
+      "value" : "N,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "ODF",
+      "value" : "475714,"
+    } ]
+  }, {
+    "ticketId" : 12539207,
+    "ticketSubsystem" : "ODF_2F    ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E1895   ",
+    "ticketSenderLastName" : "PERONGINI",
+    "ticketSenderFirstName" : "STEFANO",
+    "ticketAbstract" : "Approvazione ODF 475702 in 2F",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione ODF in Seconda firma"
+    }, {
+      "key" : "COdice Ordine :",
+      "value" : "475702,"
+    }, {
+      "key" : "COdice Cliente :",
+      "value" : "21541,"
+    }, {
+      "key" : "Codice Fattura :"
+    }, {
+      "key" : "Stato :",
+      "value" : "R,"
+    }, {
+      "key" : "contratto :",
+      "value" : "GBNL-17/420,"
+    }, {
+      "key" : "Cliente :",
+      "value" : "21541,"
+    }, {
+      "key" : "mod.pagamento :",
+      "value" : "13,"
+    }, {
+      "key" : "Aliquota iva :",
+      "value" : "22,"
+    }, {
+      "key" : "Causale :",
+      "value" : "101,"
+    }, {
+      "key" : "Tipo fattura :",
+      "value" : "K,"
+    }, {
+      "key" : "Data scadenza :"
+    }, {
+      "key" : "Bolla :"
+    }, {
+      "key" : "Data Bolla :"
+    }, {
+      "key" : "Nota inizio :",
+      "value" : "98818   CONSULENZA PROJECT MANAGEMENT SECURITY\n\n\nODA 4500245817 (CONSULENZA PROJECT MANAGEMENT AMBITO SECURITY),"
+    }, {
+      "key" : "Nota fine :"
+    }, {
+      "key" : "Nota su ordine :"
+    }, {
+      "key" : "Nostro riferimento"
+    }, {
+      "key" : "Data nostro rif. :"
+    }, {
+      "key" : "riferimento cliente :"
+    }, {
+      "key" : "Data rif. cliente :"
+    }, {
+      "key" : "Allegati :",
+      "value" : "N,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "ODF",
+      "value" : "475702,"
+    } ]
+  }, {
+    "ticketId" : 12539208,
+    "ticketSubsystem" : "APPMASA2  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "N1677   ",
+    "ticketSenderLastName" : "CAMPAIOLI",
+    "ticketSenderFirstName" : "IRENE",
+    "ticketAbstract" : "20.046,00 EUR   Consulenza a Corpo NNKP2ID01$9108021 0000418192   COSESA S.R.L.  prox:attilio.serro",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "R.d.A. da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "361542,"
+    }, {
+      "key" : "Tipo Operazione :",
+      "value" : "approva,"
+    }, {
+      "key" : "Emittente :",
+      "value" : "irene.campaioli@infogroup.it,"
+    }, {
+      "key" : "cdc :",
+      "value" : "NNKP2ID01,"
+    }, {
+      "key" : "Commessa :",
+      "value" : "$9108021,"
+    }, {
+      "key" : "Prossimo Approvatore :",
+      "value" : "attilio.serrone@eng.it,"
+    }, {
+      "key" : "Stato :",
+      "value" : "Emesso,"
+    }, {
+      "key" : "Tipologia :",
+      "value" : "Consulenza a Corpo,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000418192   COSESA S.R.L.,"
+    }, {
+      "key" : "Totale Ordinato :",
+      "value" : "20.046,00,"
+    }, {
+      "key" : "Motivo Approvazione :",
+      "value" : "10 - sono necessarie almeno due firme.,"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "DescrizioneAnticipo ,  Qta : 1, Prezzo Unitario : 20.046, Importo : 20.046,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "RdA",
+      "value" : "361542,"
+    } ]
+  }, {
+    "ticketId" : 12539276,
+    "ticketSubsystem" : "HR_RICHASS",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E10734  ",
+    "ticketSenderLastName" : "MASCELLANI",
+    "ticketSenderFirstName" : "ILARIA",
+    "ticketAbstract" : "E10734 - MASCELLANI ILARIA",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Richieste di \"MASCELLANI ILARIA\" in attesa di approvazione"
+    } ],
+    "ticketKey" : [ {
+      "key" : "MATRICOLA",
+      "value" : "E10734,"
+    }, {
+      "key" : "RUOLO",
+      "value" : "RESP,"
+    }, {
+      "key" : "DEST",
+      "value" : "E9198,"
+    } ]
+  }, {
+    "ticketId" : 12539278,
+    "ticketSubsystem" : "RASDIP_2F ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E5570   ",
+    "ticketSenderLastName" : "FUSTOLO",
+    "ticketSenderFirstName" : "MASSIMO",
+    "ticketAbstract" : "2018/02 E5569 - FORCINA FEDERICO",
+    "ticketCreationDate" : "2018-03-20T11:59:49Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione RAS Dipendenti in Seconda firma"
+    }, {
+      "key" : "Matricola:",
+      "value" : "E5569 FORCINA FEDERICO,"
+    }, {
+      "key" : "Anno:",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese:",
+      "value" : "02,"
+    }, {
+      "key" : "Commessa:"
+    } ],
+    "ticketKey" : [ {
+      "key" : "Matricola",
+      "value" : "E5569,"
+    }, {
+      "key" : "Anno",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese",
+      "value" : "02,"
+    }, {
+      "key" : "Approvatore",
+      "value" : "E5636,"
+    } ]
+  }, {
+    "ticketId" : 12539279,
+    "ticketSubsystem" : "OMASSC12  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "R714    ",
+    "ticketSenderLastName" : "COSENZA",
+    "ticketSenderFirstName" : "FABIO",
+    "ticketAbstract" : "C12 Pre-Offerta  per trattativa 103544 vers. 0.5",
+    "ticketCreationDate" : "2018-03-20T11:59:54Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Commissioned C12"
+    }, {
+      "key" : "Opportunity :",
+      "value" : "FORNITURA IN MODALITÀ SAAS DI UN SISTEMA DI GESTIONE DOCUMENTALE COMPRENDENTE I SEGUENTI MODULI: PROTOCOLLO INFORMATICO E GESTIONE DOCUMENTALE.,"
+    }, {
+      "key" : "Customer:",
+      "value" : "0000108474  ,"
+    }, {
+      "key" : "Tec.Org.Unit:",
+      "value" : "RRZCS41,"
+    }, {
+      "key" : "Sal.Org.Unit:",
+      "value" : "RRBG80,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "codTrattativa",
+      "value" : "103544,"
+    } ]
+  }, {
+    "ticketId" : 12539281,
+    "ticketSubsystem" : "RASDIP_2F ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E5570   ",
+    "ticketSenderLastName" : "FUSTOLO",
+    "ticketSenderFirstName" : "MASSIMO",
+    "ticketAbstract" : "2018/02 E7037 - ROMANO SABRINA",
+    "ticketCreationDate" : "2018-03-20T12:00:02Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione RAS Dipendenti in Seconda firma"
+    }, {
+      "key" : "Matricola:",
+      "value" : "E7037 ROMANO SABRINA,"
+    }, {
+      "key" : "Anno:",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese:",
+      "value" : "02,"
+    }, {
+      "key" : "Commessa:"
+    } ],
+    "ticketKey" : [ {
+      "key" : "Matricola",
+      "value" : "E7037,"
+    }, {
+      "key" : "Anno",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese",
+      "value" : "02,"
+    }, {
+      "key" : "Approvatore",
+      "value" : "E5636,"
+    } ]
+  }, {
+    "ticketId" : 12539282,
+    "ticketSubsystem" : "SIFO_APPR ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "SYS     ",
+    "ticketSenderLastName" : null,
+    "ticketSenderFirstName" : null,
+    "ticketAbstract" : "Richieste iscrizioni corsi in attesa di approvazione",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Richieste iscrizioni corsi in attesa di approvazione"
+    } ],
+    "ticketKey" : [ {
+      "key" : "APPLICAZIONE",
+      "value" : "SIFO,"
+    }, {
+      "key" : "DESTINATARIO",
+      "value" : "E6163,"
+    } ]
+  }, {
+    "ticketId" : 12539283,
+    "ticketSubsystem" : "SIFO_APPR ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "SYS     ",
+    "ticketSenderLastName" : null,
+    "ticketSenderFirstName" : null,
+    "ticketAbstract" : "Richieste iscrizioni corsi in attesa di approvazione",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Richieste iscrizioni corsi in attesa di approvazione"
+    } ],
+    "ticketKey" : [ {
+      "key" : "APPLICAZIONE",
+      "value" : "SIFO,"
+    }, {
+      "key" : "DESTINATARIO",
+      "value" : "E6700,"
+    } ]
+  }, {
+    "ticketId" : 12539284,
+    "ticketSubsystem" : "APPMOVTP1 ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E6469   ",
+    "ticketSenderLastName" : "SIGNORINI",
+    "ticketSenderFirstName" : "MARGHERITA",
+    "ticketAbstract" : "Transfer Price $MAN419/AA01 ==> BDBR024/AA01 Anno/Mese 2018/03 imp.      4.515,93",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Mov. da Approvare"
+    }, {
+      "key" : "Id :",
+      "value" : "1749542,"
+    }, {
+      "key" : "Emittente:",
+      "value" : "$MAN419/AA01,"
+    }, {
+      "key" : "Destinatario:",
+      "value" : "BDBR024/AA01,"
+    }, {
+      "key" : "Competenza Anno/Mese :",
+      "value" : "2018/03,"
+    }, {
+      "key" : "Importo :",
+      "value" : "4.515,93,"
+    }, {
+      "key" : "Causale :",
+      "value" : "094/230,"
+    }, {
+      "key" : "Descrizione :",
+      "value" : "manutenzioni primo trimestre,"
+    }, {
+      "key" : "Approvatore :",
+      "value" : "E1148,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "idMovTpTc",
+      "value" : "1749542,"
+    } ]
+  }, {
+    "ticketId" : 12539285,
+    "ticketSubsystem" : "HR_RICHASS",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E11062  ",
+    "ticketSenderLastName" : "LORINI",
+    "ticketSenderFirstName" : "LORENZO",
+    "ticketAbstract" : "E11062 - LORINI LORENZO",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Richieste di \"LORINI LORENZO\" in attesa di approvazione"
+    } ],
+    "ticketKey" : [ {
+      "key" : "MATRICOLA",
+      "value" : "E11062,"
+    }, {
+      "key" : "RUOLO",
+      "value" : "RESP,"
+    }, {
+      "key" : "DEST",
+      "value" : "E10847,"
+    } ]
+  }, {
+    "ticketId" : 12539289,
+    "ticketSubsystem" : "HR_RICHASS",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E107    ",
+    "ticketSenderLastName" : "ZANNINI",
+    "ticketSenderFirstName" : "PATRIZIA",
+    "ticketAbstract" : "E107 - ZANNINI PATRIZIA",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Richieste di \"ZANNINI PATRIZIA\" in attesa di approvazione"
+    } ],
+    "ticketKey" : [ {
+      "key" : "MATRICOLA",
+      "value" : "E107,"
+    }, {
+      "key" : "RUOLO",
+      "value" : "RESP,"
+    }, {
+      "key" : "DEST",
+      "value" : "E156,"
+    } ]
+  }, {
+    "ticketId" : 12539290,
+    "ticketSubsystem" : "HR_RICHASS",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E5032   ",
+    "ticketSenderLastName" : "LOMBARDI",
+    "ticketSenderFirstName" : "MASSIMO",
+    "ticketAbstract" : "E5032 - LOMBARDI MASSIMO",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Richieste di \"LOMBARDI MASSIMO\" in attesa di approvazione"
+    } ],
+    "ticketKey" : [ {
+      "key" : "MATRICOLA",
+      "value" : "E5032,"
+    }, {
+      "key" : "RUOLO",
+      "value" : "RESP,"
+    }, {
+      "key" : "DEST",
+      "value" : "E5686,"
+    } ]
+  }, {
+    "ticketId" : 12539292,
+    "ticketSubsystem" : "RASDIP_2F ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E5570   ",
+    "ticketSenderLastName" : "FUSTOLO",
+    "ticketSenderFirstName" : "MASSIMO",
+    "ticketAbstract" : "2018/02 E7116 - CILIO FABRIZIO",
+    "ticketCreationDate" : "2018-03-20T12:03:06Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione RAS Dipendenti in Seconda firma"
+    }, {
+      "key" : "Matricola:",
+      "value" : "E7116 CILIO FABRIZIO,"
+    }, {
+      "key" : "Anno:",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese:",
+      "value" : "02,"
+    }, {
+      "key" : "Commessa:"
+    } ],
+    "ticketKey" : [ {
+      "key" : "Matricola",
+      "value" : "E7116,"
+    }, {
+      "key" : "Anno",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese",
+      "value" : "02,"
+    }, {
+      "key" : "Approvatore",
+      "value" : "E5636,"
+    } ]
+  }, {
+    "ticketId" : 12539293,
+    "ticketSubsystem" : "APPMASA2  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "M1956   ",
+    "ticketSenderLastName" : "CELLI",
+    "ticketSenderFirstName" : "BARBARA",
+    "ticketAbstract" : "9.500,00 EUR   Assicurazioni MRMO4T&MMBTI063 0000401426   GENERALI ITALIA SPAAG. PADOVA SUD 498  pr",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "R.d.A. da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "361545,"
+    }, {
+      "key" : "Tipo Operazione :",
+      "value" : "approva,"
+    }, {
+      "key" : "Emittente :",
+      "value" : "barbara.celli@eng.it,"
+    }, {
+      "key" : "cdc :",
+      "value" : "MRMO4T&amp;M,"
+    }, {
+      "key" : "Commessa :",
+      "value" : "MBTI063,"
+    }, {
+      "key" : "Prossimo Approvatore :",
+      "value" : "cristina.vetrone@eng.it,"
+    }, {
+      "key" : "Stato :",
+      "value" : "Emesso,"
+    }, {
+      "key" : "Tipologia :",
+      "value" : "Assicurazioni,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000401426   GENERALI ITALIA SPAAG. PADOVA SUD 498,"
+    }, {
+      "key" : "Totale Ordinato :",
+      "value" : "9.500,00,"
+    }, {
+      "key" : "Motivo Approvazione :",
+      "value" : "10 - sono necessarie almeno due firme.,"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "DescrizioneAssicuraz,  Qta : 1, Prezzo Unitario : 9.500, Importo : 9.500,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "RdA",
+      "value" : "361545,"
+    } ]
+  }, {
+    "ticketId" : 12539294,
+    "ticketSubsystem" : "APPMOVTP1 ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E6469   ",
+    "ticketSenderLastName" : "SIGNORINI",
+    "ticketSenderFirstName" : "MARGHERITA",
+    "ticketAbstract" : "Transfer Price $MAN429/AA01 ==> BSPO012/AA01 Anno/Mese 2018/03 imp.        303,54",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Mov. da Approvare"
+    }, {
+      "key" : "Id :",
+      "value" : "1749543,"
+    }, {
+      "key" : "Emittente:",
+      "value" : "$MAN429/AA01,"
+    }, {
+      "key" : "Destinatario:",
+      "value" : "BSPO012/AA01,"
+    }, {
+      "key" : "Competenza Anno/Mese :",
+      "value" : "2018/03,"
+    }, {
+      "key" : "Importo :",
+      "value" : "303,54,"
+    }, {
+      "key" : "Causale :",
+      "value" : "094/230,"
+    }, {
+      "key" : "Descrizione :",
+      "value" : "manutenzioni primo trimestre,"
+    }, {
+      "key" : "Approvatore :",
+      "value" : "E1148,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "idMovTpTc",
+      "value" : "1749543,"
+    } ]
+  }, {
+    "ticketId" : 12539295,
+    "ticketSubsystem" : "APPENMER  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E5421   ",
+    "ticketSenderLastName" : "RAFFONE",
+    "ticketSenderFirstName" : "ANNA DANIELA",
+    "ticketAbstract" : "Entrata di 2.099,25 su 5.364,00 KPPSS10  01/02/2018",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Entrata Merci da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "356968,"
+    }, {
+      "key" : "Rif.Ordine :",
+      "value" : "222135/20180213,"
+    }, {
+      "key" : "Stato :",
+      "value" : "V/Rilasciato,"
+    }, {
+      "key" : "cdc/commessa :",
+      "value" : "KPPSS10,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000403748   CYMBULA SRL,"
+    }, {
+      "key" : "Dati del Materiale :",
+      "value" : "Descrizione : DISTACCO,Qta : 400,P.U. : 13,41,"
+    }, {
+      "key" : "Totale :",
+      "value" : "5364,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Id Entrata Merci :",
+      "value" : "1835972,"
+    }, {
+      "key" : "Data Consegna(reg) :",
+      "value" : "01/02/2018,"
+    }, {
+      "key" : "Note :",
+      "value" : "DISTACCO PRESSO AO CARDARELLI Febbraio 2018,"
+    }, {
+      "key" : "Controvalore consegnato :",
+      "value" : "2099,25,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "IdEm",
+      "value" : "1835972,"
+    } ]
+  }, {
+    "ticketId" : 12539296,
+    "ticketSubsystem" : "SIFO_APPR ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "SYS     ",
+    "ticketSenderLastName" : null,
+    "ticketSenderFirstName" : null,
+    "ticketAbstract" : "Richieste iscrizioni corsi in attesa di approvazione",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Richieste iscrizioni corsi in attesa di approvazione"
+    } ],
+    "ticketKey" : [ {
+      "key" : "APPLICAZIONE",
+      "value" : "SIFO,"
+    }, {
+      "key" : "DESTINATARIO",
+      "value" : "E9704,"
+    } ]
+  }, {
+    "ticketId" : 12539297,
+    "ticketSubsystem" : "APPMOVTP2 ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E3335   ",
+    "ticketSenderLastName" : "VIELE",
+    "ticketSenderFirstName" : "ORAZIO",
+    "ticketAbstract" : "Transfer Price VALD2716/AA01 ==> ESTR045/TMDM Anno/Mese 2018/03 imp.      1.696,35",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Mov. da Approvare"
+    }, {
+      "key" : "Id :",
+      "value" : "1749538,"
+    }, {
+      "key" : "Emittente:",
+      "value" : "VALD2716/AA01,"
+    }, {
+      "key" : "Destinatario:",
+      "value" : "ESTR045/TMDM,"
+    }, {
+      "key" : "Competenza Anno/Mese :",
+      "value" : "2018/03,"
+    }, {
+      "key" : "Importo :",
+      "value" : "1.696,35,"
+    }, {
+      "key" : "Causale :",
+      "value" : "094/230,"
+    }, {
+      "key" : "Descrizione :",
+      "value" : "EXPRIVIA - Att. SAP - SAL FEBBRAIO,"
+    }, {
+      "key" : "Approvatore :",
+      "value" : "E7779,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "idMovTpTc",
+      "value" : "1749538,"
+    } ]
+  }, {
+    "ticketId" : 12539298,
+    "ticketSubsystem" : "APPMOVTP2 ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E3335   ",
+    "ticketSenderLastName" : "VIELE",
+    "ticketSenderFirstName" : "ORAZIO",
+    "ticketAbstract" : "Transfer Price VALD2716/AA01 ==> ESTR045/TINV Anno/Mese 2018/03 imp.      8.345,33",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Mov. da Approvare"
+    }, {
+      "key" : "Id :",
+      "value" : "1749537,"
+    }, {
+      "key" : "Emittente:",
+      "value" : "VALD2716/AA01,"
+    }, {
+      "key" : "Destinatario:",
+      "value" : "ESTR045/TINV,"
+    }, {
+      "key" : "Competenza Anno/Mese :",
+      "value" : "2018/03,"
+    }, {
+      "key" : "Importo :",
+      "value" : "8.345,33,"
+    }, {
+      "key" : "Causale :",
+      "value" : "094/230,"
+    }, {
+      "key" : "Descrizione :",
+      "value" : "EXPRIVIA - Att. SAP - SAL FEBBRAIO,"
+    }, {
+      "key" : "Approvatore :",
+      "value" : "E7779,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "idMovTpTc",
+      "value" : "1749537,"
+    } ]
+  }, {
+    "ticketId" : 12539326,
+    "ticketSubsystem" : "APPMASA2  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E3987   ",
+    "ticketSenderLastName" : "LO RE",
+    "ticketSenderFirstName" : "FERDINANDO",
+    "ticketAbstract" : "200.000,00 EUR   Formazione MRSC10 0000900001   ENGINEERING INGEGNERIA INFORMATICA  prox:cinaglia@m",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "R.d.A. da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "361246,"
+    }, {
+      "key" : "Tipo Operazione :",
+      "value" : "approva,"
+    }, {
+      "key" : "Emittente :",
+      "value" : "belluco@mail.eng.it,"
+    }, {
+      "key" : "cdc :",
+      "value" : "MRSC10,"
+    }, {
+      "key" : "Commessa :"
+    }, {
+      "key" : "Prossimo Approvatore :",
+      "value" : "cinaglia@mail.eng.it,"
+    }, {
+      "key" : "Stato :"
+    }, {
+      "key" : "Tipologia :",
+      "value" : "Formazione,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000900001   ENGINEERING INGEGNERIA INFORMATICA,"
+    }, {
+      "key" : "Totale Ordinato :",
+      "value" : "200.000,00,"
+    }, {
+      "key" : "Motivo Approvazione :",
+      "value" : "10 - sono necessarie almeno due firme.,"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "Descrizione : Formazion, Qta : 1, Prezzo Unitario : ,200000, Importo : ,200000,Matricola Lav:,E1422   , Nome : ,BELLUCO,Cognome : ,ALESSIA,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "RdA",
+      "value" : "361246,"
+    } ]
+  }, {
+    "ticketId" : 12539327,
+    "ticketSubsystem" : "APPMASA2  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E3987   ",
+    "ticketSenderLastName" : "LO RE",
+    "ticketSenderFirstName" : "FERDINANDO",
+    "ticketAbstract" : "250.000,00 EUR   Formazione YRSC10 0000900001   ENGINEERING INGEGNERIA INFORMATICA  prox:cinaglia@m",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "R.d.A. da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "361248,"
+    }, {
+      "key" : "Tipo Operazione :",
+      "value" : "approva,"
+    }, {
+      "key" : "Emittente :",
+      "value" : "belluco@mail.eng.it,"
+    }, {
+      "key" : "cdc :",
+      "value" : "YRSC10,"
+    }, {
+      "key" : "Commessa :"
+    }, {
+      "key" : "Prossimo Approvatore :",
+      "value" : "cinaglia@mail.eng.it,"
+    }, {
+      "key" : "Stato :"
+    }, {
+      "key" : "Tipologia :",
+      "value" : "Formazione,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000900001   ENGINEERING INGEGNERIA INFORMATICA,"
+    }, {
+      "key" : "Totale Ordinato :",
+      "value" : "250.000,00,"
+    }, {
+      "key" : "Motivo Approvazione :",
+      "value" : "10 - sono necessarie almeno due firme.,"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "Descrizione : Costi di , Qta : 1, Prezzo Unitario : ,250000, Importo : ,250000,Matricola Lav:,Z8577   , Nome : ,FITTIZI,Cognome : ,FITTIZIA,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "RdA",
+      "value" : "361248,"
+    } ]
+  }, {
+    "ticketId" : 12539329,
+    "ticketSubsystem" : "RASDIP_2F ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E5570   ",
+    "ticketSenderLastName" : "FUSTOLO",
+    "ticketSenderFirstName" : "MASSIMO",
+    "ticketAbstract" : "2018/02 E2801 - SIMPLICIO ADRIANA",
+    "ticketCreationDate" : "2018-03-20T12:10:21Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione RAS Dipendenti in Seconda firma"
+    }, {
+      "key" : "Matricola:",
+      "value" : "E2801 SIMPLICIO ADRIANA,"
+    }, {
+      "key" : "Anno:",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese:",
+      "value" : "02,"
+    }, {
+      "key" : "Commessa:"
+    } ],
+    "ticketKey" : [ {
+      "key" : "Matricola",
+      "value" : "E2801,"
+    }, {
+      "key" : "Anno",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese",
+      "value" : "02,"
+    }, {
+      "key" : "Approvatore",
+      "value" : "E10168,"
+    } ]
+  }, {
+    "ticketId" : 12539330,
+    "ticketSubsystem" : "APPMASA2  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E1369   ",
+    "ticketSenderLastName" : "MANGIARACINA",
+    "ticketSenderFirstName" : "RAFFAELLA",
+    "ticketAbstract" : "70.000,00 EUR   Consulenza a Corpo WRS090$SLP002 0000411117   EKA S.R.L.  prox:",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "R.d.A. da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "361224,"
+    }, {
+      "key" : "Tipo Operazione :"
+    }, {
+      "key" : "Emittente :",
+      "value" : "raffaella.mangiaracina@eng.it,"
+    }, {
+      "key" : "cdc :",
+      "value" : "WRS090,"
+    }, {
+      "key" : "Commessa :",
+      "value" : "$SLP002,"
+    }, {
+      "key" : "Prossimo Approvatore :"
+    }, {
+      "key" : "Stato :",
+      "value" : "In elaborazione,"
+    }, {
+      "key" : "Tipologia :",
+      "value" : "Consulenza a Corpo,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000411117   EKA S.R.L.,"
+    }, {
+      "key" : "Totale Ordinato :",
+      "value" : "70.000,00,"
+    }, {
+      "key" : "Motivo Approvazione :"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "Descrizione : Realiz za, Qta : 1, Prezzo Unitario : 70.000, Importo : 70.000, Matricola Lav: Z21415  , Nome : GIANLUCA, Cognome : CINA',"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "Descrizione : realiz za, Qta : 1, Prezzo Unitario : 0, Importo : 0, Matricola Lav: Z21224  , Nome : VIVIANA, Cognome : LATINO,"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "Descrizione : realiz za, Qta : 1, Prezzo Unitario : 0, Importo : 0, Matricola Lav: Z21257  , Nome : ENRICO GABRIELE, Cognome : MELODIA,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "RdA",
+      "value" : "361224,"
+    } ]
+  }, {
+    "ticketId" : 12539331,
+    "ticketSubsystem" : "ODF_1F    ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E107    ",
+    "ticketSenderLastName" : "ZANNINI",
+    "ticketSenderFirstName" : "PATRIZIA",
+    "ticketAbstract" : "Approvazione ODF 475769 in 1F",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione ODF in Prima firma"
+    }, {
+      "key" : "COdice Ordine :",
+      "value" : "475769,"
+    }, {
+      "key" : "COdice Cliente :",
+      "value" : "21595,"
+    }, {
+      "key" : "Codice Fattura :"
+    }, {
+      "key" : "Stato :",
+      "value" : "I,"
+    }, {
+      "key" : "contratto :",
+      "value" : "CARS-17/003,"
+    }, {
+      "key" : "Cliente :",
+      "value" : "21595,"
+    }, {
+      "key" : "mod.pagamento :",
+      "value" : "07,"
+    }, {
+      "key" : "Aliquota iva :",
+      "value" : "22,"
+    }, {
+      "key" : "Causale :",
+      "value" : "101,"
+    }, {
+      "key" : "Tipo fattura :",
+      "value" : "K,"
+    }, {
+      "key" : "Data scadenza :"
+    }, {
+      "key" : "Bolla :"
+    }, {
+      "key" : "Data Bolla :"
+    }, {
+      "key" : "Nota inizio :",
+      "value" : "VS. RIF. ORDINE N. 4500010138/I23 DEL 17/11/2017,"
+    }, {
+      "key" : "Nota fine :"
+    }, {
+      "key" : "Nota su ordine :"
+    }, {
+      "key" : "Nostro riferimento"
+    }, {
+      "key" : "Data nostro rif. :"
+    }, {
+      "key" : "riferimento cliente :"
+    }, {
+      "key" : "Data rif. cliente :"
+    }, {
+      "key" : "Allegati :",
+      "value" : "N,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "ODF",
+      "value" : "475769,"
+    } ]
+  }, {
+    "ticketId" : 12539332,
+    "ticketSubsystem" : "ODF_1F    ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E8303   ",
+    "ticketSenderLastName" : "FOGLIATA",
+    "ticketSenderFirstName" : "SIMONA",
+    "ticketAbstract" : "Approvazione ODF 475770 in 1F",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione ODF in Prima firma"
+    }, {
+      "key" : "COdice Ordine :",
+      "value" : "475770,"
+    }, {
+      "key" : "COdice Cliente :",
+      "value" : "22120,"
+    }, {
+      "key" : "Codice Fattura :"
+    }, {
+      "key" : "Stato :",
+      "value" : "I,"
+    }, {
+      "key" : "contratto :",
+      "value" : "GVOD-18/010,"
+    }, {
+      "key" : "Cliente :",
+      "value" : "22120,"
+    }, {
+      "key" : "mod.pagamento :",
+      "value" : "33,"
+    }, {
+      "key" : "Aliquota iva :",
+      "value" : "22,"
+    }, {
+      "key" : "Causale :",
+      "value" : "101,"
+    }, {
+      "key" : "Tipo fattura :",
+      "value" : "K,"
+    }, {
+      "key" : "Data scadenza :"
+    }, {
+      "key" : "Bolla :"
+    }, {
+      "key" : "Data Bolla :"
+    }, {
+      "key" : "Nota inizio :"
+    }, {
+      "key" : "Nota fine :"
+    }, {
+      "key" : "Nota su ordine :",
+      "value" : "emissione e spedizione entro fine mese di fatturazione\n,"
+    }, {
+      "key" : "Nostro riferimento",
+      "value" : "1502033848,"
+    }, {
+      "key" : "Data nostro rif. :"
+    }, {
+      "key" : "riferimento cliente :"
+    }, {
+      "key" : "Data rif. cliente :"
+    }, {
+      "key" : "Allegati :",
+      "value" : "N,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "ODF",
+      "value" : "475770,"
+    } ]
+  }, {
+    "ticketId" : 12539333,
+    "ticketSubsystem" : "OMASSC12  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E5242   ",
+    "ticketSenderLastName" : "AMBROSI",
+    "ticketSenderFirstName" : "ROBERTO",
+    "ticketAbstract" : "C12 Pre-Offerta  per trattativa 101090 vers. 0.5",
+    "ticketCreationDate" : "2018-03-20T12:11:08Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Commissioned C12"
+    }, {
+      "key" : "Opportunity :",
+      "value" : "MEV 2018\n,"
+    }, {
+      "key" : "Customer:",
+      "value" : "0000108086  ,"
+    }, {
+      "key" : "Tec.Org.Unit:",
+      "value" : "KPPSC10,"
+    }, {
+      "key" : "Sal.Org.Unit:",
+      "value" : "1PSC10,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "codTrattativa",
+      "value" : "101090,"
+    } ]
+  }, {
+    "ticketId" : 12539348,
+    "ticketSubsystem" : "APPENMER  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "M2035   ",
+    "ticketSenderLastName" : "JOLY",
+    "ticketSenderFirstName" : "GIGLIOLA",
+    "ticketAbstract" : "Entrata di 181.497,74 su 182.497,74 MRMO4I&S/PRE-038  01/03/2018",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Entrata Merci da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "355231,"
+    }, {
+      "key" : "Rif.Ordine :",
+      "value" : "219630/20180124,"
+    }, {
+      "key" : "Stato :",
+      "value" : "V/Rilasciato,"
+    }, {
+      "key" : "cdc/commessa :",
+      "value" : "MRMO4I&amp;S/PRE-038,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000400346   COMPUTER GROSS ITALIA SPA,"
+    }, {
+      "key" : "Dati del Materiale :",
+      "value" : "Descrizione : Fornitura,Qta : 1,P.U. : 181497,74,"
+    }, {
+      "key" : "Totale :",
+      "value" : "182497,74,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Id Entrata Merci :",
+      "value" : "1835634,"
+    }, {
+      "key" : "Data Consegna(reg) :",
+      "value" : "01/03/2018,"
+    }, {
+      "key" : "Note :",
+      "value" : "Fornitura in rivendita a Prelios di apparati LAN (Cisco switch), WiFi (Cisco Access Point) e Appliance di Sicurezza, comprensivi di subscription triennali (come da offerta allegata) SAL AL 03/2018,"
+    }, {
+      "key" : "Controvalore consegnato :",
+      "value" : "181497,74,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "IdEm",
+      "value" : "1835634,"
+    } ]
+  }, {
+    "ticketId" : 12539349,
+    "ticketSubsystem" : "APPENMER  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "M2084   ",
+    "ticketSenderLastName" : "MACCARIO",
+    "ticketSenderFirstName" : "AURELIO",
+    "ticketAbstract" : "Entrata di 316.13 su 8,160.00 MRMO3FIN/GBNL1605  01-FEB-18",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Entrata Merci da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "350013,"
+    }, {
+      "key" : "Rif.Ordine :",
+      "value" : "220346/20180130,"
+    }, {
+      "key" : "Stato :",
+      "value" : "rilasciato,"
+    }, {
+      "key" : "cdc/commessa :",
+      "value" : "MRMO3FIN/GBNL1605,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000400118  FASTWEB S.P.A.,"
+    }, {
+      "key" : "Dati del Materiale :",
+      "value" : "Descrizione : Canoni per BNL via Aldobrandeschi,Qta : 12,P.U. : 680,"
+    }, {
+      "key" : "Totale :",
+      "value" : "8160,"
+    }, {
+      "key" : "Divisa :"
+    }, {
+      "key" : "Id Entrata Merci :",
+      "value" : "1835974,"
+    }, {
+      "key" : "Data Consegna(reg) :",
+      "value" : "01-FEB-18,"
+    }, {
+      "key" : "Note :",
+      "value" : "EM 2018/01 per Canoni per BNL via Aldobrandeschi,"
+    }, {
+      "key" : "Controvalore consegnato :",
+      "value" : "316.13,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "IdEm",
+      "value" : "1835974,"
+    } ]
+  }, {
+    "ticketId" : 12539350,
+    "ticketSubsystem" : "APPMASA2  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E3073   ",
+    "ticketSenderLastName" : "BALESTRIERI",
+    "ticketSenderFirstName" : "CHIARA STELLA",
+    "ticketAbstract" : "13.640,00 EUR   Consulenza Time&Material KP21DB1 0000402956   MTSOFT SRL  prox:volpi.giuseppina@mai",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "R.d.A. da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "360442,"
+    }, {
+      "key" : "Tipo Operazione :",
+      "value" : "approva,"
+    }, {
+      "key" : "Emittente :",
+      "value" : "gorla@mail.eng.it,"
+    }, {
+      "key" : "cdc :",
+      "value" : "KP21DB1,"
+    }, {
+      "key" : "Commessa :"
+    }, {
+      "key" : "Prossimo Approvatore :",
+      "value" : "volpi.giuseppina@mail.eng.it,"
+    }, {
+      "key" : "Stato :"
+    }, {
+      "key" : "Tipologia :",
+      "value" : "Consulenza Time&amp;Material,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000402956   MTSOFT SRL,"
+    }, {
+      "key" : "Totale Ordinato :",
+      "value" : "13.640,00,"
+    }, {
+      "key" : "Motivo Approvazione :",
+      "value" : "54 - Fornitore fuori Accordi Quadro  Necessaria deroga Direttore Generale,"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "Descrizione : ANALISTA , Qta : 62, Prezzo Unitario : ,220, Importo : ,13640,Matricola Lav:,Z6695   , Nome : ,DISCANNI,Cognome : ,GREGORIO,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "RdA",
+      "value" : "360442,"
+    } ]
+  }, {
+    "ticketId" : 12539351,
+    "ticketSubsystem" : "OMASSC12  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E8333   ",
+    "ticketSenderLastName" : "GUSMINI",
+    "ticketSenderFirstName" : "LUIGI GIORGIO",
+    "ticketAbstract" : "C12 Pre-Offerta  per trattativa 107843 vers. 0.2",
+    "ticketCreationDate" : "2018-03-20T12:15:49Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Commissioned C12"
+    }, {
+      "key" : "Opportunity :",
+      "value" : "Intercompany per servizi EDI su contratto Outsourcing Piaggio,"
+    }, {
+      "key" : "Customer:",
+      "value" : "0000800061  ,"
+    }, {
+      "key" : "Tec.Org.Unit:",
+      "value" : "KPIS2B2,"
+    }, {
+      "key" : "Sal.Org.Unit:",
+      "value" : "1IS2B2,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "codTrattativa",
+      "value" : "107843,"
+    } ]
+  }, {
+    "ticketId" : 12539352,
+    "ticketSubsystem" : "APPENMER  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "M2084   ",
+    "ticketSenderLastName" : "MACCARIO",
+    "ticketSenderFirstName" : "AURELIO",
+    "ticketAbstract" : "Entrata di 867.26 su 12,300.00 MRMO3FIN/GBNL1605  01-FEB-18",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Entrata Merci da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "350013,"
+    }, {
+      "key" : "Rif.Ordine :",
+      "value" : "220346/20180130,"
+    }, {
+      "key" : "Stato :",
+      "value" : "rilasciato,"
+    }, {
+      "key" : "cdc/commessa :",
+      "value" : "MRMO3FIN/GBNL1605,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000400118  FASTWEB S.P.A.,"
+    }, {
+      "key" : "Dati del Materiale :",
+      "value" : "Descrizione : Canoni per BNL Marino,Qta : 12,P.U. : 1025,"
+    }, {
+      "key" : "Totale :",
+      "value" : "12300,"
+    }, {
+      "key" : "Divisa :"
+    }, {
+      "key" : "Id Entrata Merci :",
+      "value" : "1835987,"
+    }, {
+      "key" : "Data Consegna(reg) :",
+      "value" : "01-FEB-18,"
+    }, {
+      "key" : "Note :",
+      "value" : "EM 2018/01 per Canoni per BNL Marino,"
+    }, {
+      "key" : "Controvalore consegnato :",
+      "value" : "867.26,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "IdEm",
+      "value" : "1835987,"
+    } ]
+  }, {
+    "ticketId" : 12539353,
+    "ticketSubsystem" : "APPMASA2  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E1369   ",
+    "ticketSenderLastName" : "MANGIARACINA",
+    "ticketSenderFirstName" : "RAFFAELLA",
+    "ticketAbstract" : "92.000,00 EUR   Consulenza a Corpo WRS090$SLP002 0000401512   SINTEX SRL  prox:",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "R.d.A. da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "359835,"
+    }, {
+      "key" : "Tipo Operazione :",
+      "value" : "Visione,"
+    }, {
+      "key" : "Emittente :",
+      "value" : "raffaella.mangiaracina@eng.it,"
+    }, {
+      "key" : "cdc :",
+      "value" : "WRS090,"
+    }, {
+      "key" : "Commessa :",
+      "value" : "$SLP002,"
+    }, {
+      "key" : "Prossimo Approvatore :"
+    }, {
+      "key" : "Stato :",
+      "value" : "Emesso In Visione CP,"
+    }, {
+      "key" : "Tipologia :",
+      "value" : "Consulenza a Corpo,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000401512   SINTEX SRL,"
+    }, {
+      "key" : "Totale Ordinato :",
+      "value" : "92.000,00,"
+    }, {
+      "key" : "Motivo Approvazione :"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "DescrizioneRealizzaz,  Qta : 1, Prezzo Unitario : 92.000, Importo : 92.000,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "RdA",
+      "value" : "359835,"
+    } ]
+  }, {
+    "ticketId" : 12539354,
+    "ticketSubsystem" : "HR_RICHASS",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E8365   ",
+    "ticketSenderLastName" : "MALARA",
+    "ticketSenderFirstName" : "MASSIMO",
+    "ticketAbstract" : "E8365 - MALARA MASSIMO",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Richieste di \"MALARA MASSIMO\" in attesa di approvazione"
+    } ],
+    "ticketKey" : [ {
+      "key" : "MATRICOLA",
+      "value" : "E8365,"
+    }, {
+      "key" : "RUOLO",
+      "value" : "RESP,"
+    }, {
+      "key" : "DEST",
+      "value" : "E10701,"
+    } ]
+  }, {
+    "ticketId" : 12539359,
+    "ticketSubsystem" : "APPMASA2  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E3987   ",
+    "ticketSenderLastName" : "LO RE",
+    "ticketSenderFirstName" : "FERDINANDO",
+    "ticketAbstract" : "9.000,00 EUR   Formazione RSC10XPAL058 0000414358   CODEMOTION SRL  prox:alessandro.bennici@engisan",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "R.d.A. da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "361289,"
+    }, {
+      "key" : "Tipo Operazione :",
+      "value" : "approva,"
+    }, {
+      "key" : "Emittente :",
+      "value" : "cesidio.antonellis@eng.it,"
+    }, {
+      "key" : "cdc :",
+      "value" : "RSC10,"
+    }, {
+      "key" : "Commessa :",
+      "value" : "XPAL058,"
+    }, {
+      "key" : "Prossimo Approvatore :",
+      "value" : "alessandro.bennici@engisan.it,"
+    }, {
+      "key" : "Stato :"
+    }, {
+      "key" : "Tipologia :",
+      "value" : "Formazione,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000414358   CODEMOTION SRL,"
+    }, {
+      "key" : "Totale Ordinato :",
+      "value" : "9.000,00,"
+    }, {
+      "key" : "Motivo Approvazione :",
+      "value" : "10 - sono necessarie almeno due firme.,"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "Descrizione : Corso ad , Qta : 1, Prezzo Unitario : ,9000, Importo : ,9000,Matricola Lav:,E3457   , Nome : ,ANTONELLIS,Cognome : ,CESIDIO,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "RdA",
+      "value" : "361289,"
+    } ]
+  }, {
+    "ticketId" : 12539360,
+    "ticketSubsystem" : "HR_RICHASS",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E5244   ",
+    "ticketSenderLastName" : "BALDINI",
+    "ticketSenderFirstName" : "FABRIZIO",
+    "ticketAbstract" : "E5244 - BALDINI FABRIZIO",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Richieste di \"BALDINI FABRIZIO\" in attesa di approvazione"
+    } ],
+    "ticketKey" : [ {
+      "key" : "MATRICOLA",
+      "value" : "E5244,"
+    }, {
+      "key" : "RUOLO",
+      "value" : "RESP,"
+    }, {
+      "key" : "DEST",
+      "value" : "E3301,"
+    } ]
+  }, {
+    "ticketId" : 12539362,
+    "ticketSubsystem" : "RASDIP_2F ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E7979   ",
+    "ticketSenderLastName" : "RUBATTO",
+    "ticketSenderFirstName" : "ELENA",
+    "ticketAbstract" : "2018/02 E9911 - PAGLIOTTI GUIDO",
+    "ticketCreationDate" : "2018-03-20T12:18:28Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione RAS Dipendenti in Seconda firma"
+    }, {
+      "key" : "Matricola:",
+      "value" : "E9911 PAGLIOTTI GUIDO,"
+    }, {
+      "key" : "Anno:",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese:",
+      "value" : "02,"
+    }, {
+      "key" : "Commessa:"
+    } ],
+    "ticketKey" : [ {
+      "key" : "Matricola",
+      "value" : "E9911,"
+    }, {
+      "key" : "Anno",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese",
+      "value" : "02,"
+    }, {
+      "key" : "Approvatore",
+      "value" : "E9733,"
+    } ]
+  }, {
+    "ticketId" : 12539363,
+    "ticketSubsystem" : "APPMOVTP1 ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E6469   ",
+    "ticketSenderLastName" : "SIGNORINI",
+    "ticketSenderFirstName" : "MARGHERITA",
+    "ticketAbstract" : "Transfer Price $MAN449/AA01 ==> BANC008/AA01 Anno/Mese 2018/03 imp.      1.263,75",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Mov. da Approvare"
+    }, {
+      "key" : "Id :",
+      "value" : "1749544,"
+    }, {
+      "key" : "Emittente:",
+      "value" : "$MAN449/AA01,"
+    }, {
+      "key" : "Destinatario:",
+      "value" : "BANC008/AA01,"
+    }, {
+      "key" : "Competenza Anno/Mese :",
+      "value" : "2018/03,"
+    }, {
+      "key" : "Importo :",
+      "value" : "1.263,75,"
+    }, {
+      "key" : "Causale :",
+      "value" : "094/230,"
+    }, {
+      "key" : "Descrizione :",
+      "value" : "manutenzioni primo trimestre,"
+    }, {
+      "key" : "Approvatore :",
+      "value" : "E1148,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "idMovTpTc",
+      "value" : "1749544,"
+    } ]
+  }, {
+    "ticketId" : 12539365,
+    "ticketSubsystem" : "RASDIP_1F ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E7979   ",
+    "ticketSenderLastName" : "RUBATTO",
+    "ticketSenderFirstName" : "ELENA",
+    "ticketAbstract" : "2018/02 E9765 - CORADAZZI ILARIA",
+    "ticketCreationDate" : "2018-03-20T12:18:54Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione RAS Dipendenti in Prima firma"
+    }, {
+      "key" : "Matricola:",
+      "value" : "E9765 CORADAZZI ILARIA,"
+    }, {
+      "key" : "Anno:",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese:",
+      "value" : "02,"
+    }, {
+      "key" : "Commessa:",
+      "value" : "FGAF2132,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "Matricola",
+      "value" : "E9765,"
+    }, {
+      "key" : "Anno",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese",
+      "value" : "02,"
+    }, {
+      "key" : "Approvatore",
+      "value" : "E7979,"
+    } ]
+  }, {
+    "ticketId" : 12539367,
+    "ticketSubsystem" : "RASDIP_2F ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E7979   ",
+    "ticketSenderLastName" : "RUBATTO",
+    "ticketSenderFirstName" : "ELENA",
+    "ticketAbstract" : "2018/02 E9765 - CORADAZZI ILARIA",
+    "ticketCreationDate" : "2018-03-20T12:18:54Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione RAS Dipendenti in Seconda firma"
+    }, {
+      "key" : "Matricola:",
+      "value" : "E9765 CORADAZZI ILARIA,"
+    }, {
+      "key" : "Anno:",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese:",
+      "value" : "02,"
+    }, {
+      "key" : "Commessa:"
+    } ],
+    "ticketKey" : [ {
+      "key" : "Matricola",
+      "value" : "E9765,"
+    }, {
+      "key" : "Anno",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese",
+      "value" : "02,"
+    }, {
+      "key" : "Approvatore",
+      "value" : "E1741,"
+    } ]
+  }, {
+    "ticketId" : 12539369,
+    "ticketSubsystem" : "RASDIP_1F ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E7979   ",
+    "ticketSenderLastName" : "RUBATTO",
+    "ticketSenderFirstName" : "ELENA",
+    "ticketAbstract" : "2018/02 E9727 - BROCCHI PAOLO",
+    "ticketCreationDate" : "2018-03-20T12:19:08Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione RAS Dipendenti in Prima firma"
+    }, {
+      "key" : "Matricola:",
+      "value" : "E9727 BROCCHI PAOLO,"
+    }, {
+      "key" : "Anno:",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese:",
+      "value" : "02,"
+    }, {
+      "key" : "Commessa:",
+      "value" : "FGAF2121,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "Matricola",
+      "value" : "E9727,"
+    }, {
+      "key" : "Anno",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese",
+      "value" : "02,"
+    }, {
+      "key" : "Approvatore",
+      "value" : "E7979,"
+    } ]
+  }, {
+    "ticketId" : 12539371,
+    "ticketSubsystem" : "RASDIP_2F ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E7979   ",
+    "ticketSenderLastName" : "RUBATTO",
+    "ticketSenderFirstName" : "ELENA",
+    "ticketAbstract" : "2018/02 E9727 - BROCCHI PAOLO",
+    "ticketCreationDate" : "2018-03-20T12:19:08Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Approvazione RAS Dipendenti in Seconda firma"
+    }, {
+      "key" : "Matricola:",
+      "value" : "E9727 BROCCHI PAOLO,"
+    }, {
+      "key" : "Anno:",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese:",
+      "value" : "02,"
+    }, {
+      "key" : "Commessa:"
+    } ],
+    "ticketKey" : [ {
+      "key" : "Matricola",
+      "value" : "E9727,"
+    }, {
+      "key" : "Anno",
+      "value" : "2018,"
+    }, {
+      "key" : "Mese",
+      "value" : "02,"
+    }, {
+      "key" : "Approvatore",
+      "value" : "E1741,"
+    } ]
+  }, {
+    "ticketId" : 12539373,
+    "ticketSubsystem" : "APPENMER  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E7345   ",
+    "ticketSenderLastName" : "PARADISO",
+    "ticketSenderFirstName" : "DANIELA",
+    "ticketAbstract" : "Entrata di 139,52 su 139,52 ASSAS  01/03/2018",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Entrata Merci da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "359067,"
+    }, {
+      "key" : "Rif.Ordine :",
+      "value" : "223742/20180307,"
+    }, {
+      "key" : "Stato :",
+      "value" : "V/Rilasciato,"
+    }, {
+      "key" : "cdc/commessa :",
+      "value" : "ASSAS,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000400295   GECAL SPA,"
+    }, {
+      "key" : "Dati del Materiale :",
+      "value" : "Descrizione : integrazi,Qta : 1,P.U. : 139,52,"
+    }, {
+      "key" : "Totale :",
+      "value" : "139,52,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Id Entrata Merci :",
+      "value" : "1835999,"
+    }, {
+      "key" : "Data Consegna(reg) :",
+      "value" : "01/03/2018,"
+    }, {
+      "key" : "Note :",
+      "value" : "integrazione ad RDA n. E/358306 (ODA OE/222920) per acquisto di Cartucce originali HP  SAL AL _ _/_ _ _ _,"
+    }, {
+      "key" : "Controvalore consegnato :",
+      "value" : "139,52,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "IdEm",
+      "value" : "1835999,"
+    } ]
+  }, {
+    "ticketId" : 12539374,
+    "ticketSubsystem" : "OMASSC12  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E3939   ",
+    "ticketSenderLastName" : "CARPINATO",
+    "ticketSenderFirstName" : "ANTONIO LUCIO",
+    "ticketAbstract" : "C12 Pre-Accettazione Contratto/Ordine per trattativa 99692 vers. 3.3",
+    "ticketCreationDate" : "2018-03-20T12:21:29Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Commissioned C12"
+    }, {
+      "key" : "Opportunity :",
+      "value" : "Progetto Contabilità - Integrazione Sistema Zucchetti Fase 1,"
+    }, {
+      "key" : "Customer:",
+      "value" : "0000106828  ,"
+    }, {
+      "key" : "Tec.Org.Unit:",
+      "value" : "KP24RG3,"
+    }, {
+      "key" : "Sal.Org.Unit:",
+      "value" : "124RG3,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "codTrattativa",
+      "value" : "99692,"
+    } ]
+  }, {
+    "ticketId" : 12539375,
+    "ticketSubsystem" : "APPMASA2  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "FC43    ",
+    "ticketSenderLastName" : "ZANUTTINI",
+    "ticketSenderFirstName" : "MARCO",
+    "ticketAbstract" : "240,00 EUR   Spese di Rappresentanza RBMS0000 0000850010   SPESE DI RAPPRESENTANZA  prox:",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "R.d.A. da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "361118,"
+    }, {
+      "key" : "Tipo Operazione :",
+      "value" : "approva,"
+    }, {
+      "key" : "Emittente :",
+      "value" : "mariaelena.pieretti@eng.it,"
+    }, {
+      "key" : "cdc :",
+      "value" : "RBMS0000,"
+    }, {
+      "key" : "Commessa :"
+    }, {
+      "key" : "Prossimo Approvatore :"
+    }, {
+      "key" : "Stato :"
+    }, {
+      "key" : "Tipologia :",
+      "value" : "Spese di Rappresentanza,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000850010   SPESE DI RAPPRESENTANZA,"
+    }, {
+      "key" : "Totale Ordinato :",
+      "value" : "240,00,"
+    }, {
+      "key" : "Motivo Approvazione :",
+      "value" : "10 - sono necessarie almeno due firme.,"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "Descrizione : Pranzo de, Qta : 1, Prezzo Unitario : ,240, Importo : ,240,Matricola Lav:,E6641   , Nome : ,POLEGRI,Cognome : ,GIANLUCA,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "RdA",
+      "value" : "361118,"
+    } ]
+  }, {
+    "ticketId" : 12539376,
+    "ticketSubsystem" : "APPMASA2  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "FC43    ",
+    "ticketSenderLastName" : "ZANUTTINI",
+    "ticketSenderFirstName" : "MARCO",
+    "ticketAbstract" : "210,00 EUR   Spese di Rappresentanza RBMS0000 0000850010   SPESE DI RAPPRESENTANZA  prox:",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : true,
+    "reject" : true,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "R.d.A. da Approvare"
+    }, {
+      "key" : "RdA :",
+      "value" : "361119,"
+    }, {
+      "key" : "Tipo Operazione :",
+      "value" : "approva,"
+    }, {
+      "key" : "Emittente :",
+      "value" : "mariaelena.pieretti@eng.it,"
+    }, {
+      "key" : "cdc :",
+      "value" : "RBMS0000,"
+    }, {
+      "key" : "Commessa :"
+    }, {
+      "key" : "Prossimo Approvatore :"
+    }, {
+      "key" : "Stato :"
+    }, {
+      "key" : "Tipologia :",
+      "value" : "Spese di Rappresentanza,"
+    }, {
+      "key" : "Divisa :",
+      "value" : "Euro,"
+    }, {
+      "key" : "Fornitore :",
+      "value" : "0000850010   SPESE DI RAPPRESENTANZA,"
+    }, {
+      "key" : "Totale Ordinato :",
+      "value" : "210,00,"
+    }, {
+      "key" : "Motivo Approvazione :",
+      "value" : "10 - sono necessarie almeno due firme.,"
+    }, {
+      "key" : "Dati del Materiale:",
+      "value" : "Descrizione : Pranzo de, Qta : 7, Prezzo Unitario : ,30, Importo : ,210,Matricola Lav:,E6641   , Nome : ,POLEGRI,Cognome : ,GIANLUCA,"
+    } ],
+    "ticketKey" : [ {
+      "key" : "RdA",
+      "value" : "361119,"
+    } ]
+  }, {
+    "ticketId" : 12539377,
+    "ticketSubsystem" : "HR_RICHASS",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E3294   ",
+    "ticketSenderLastName" : "EPIFANI",
+    "ticketSenderFirstName" : "MONICA",
+    "ticketAbstract" : "E3294 - EPIFANI MONICA",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : false,
+    "approve" : false,
+    "reject" : false,
+    "display" : true,
+    "ticketPayload" : [ {
+      "key" : "Richieste di \"EPIFANI MONICA\" in attesa di approvazione"
+    } ],
+    "ticketKey" : [ {
+      "key" : "MATRICOLA",
+      "value" : "E3294,"
+    }, {
+      "key" : "RUOLO",
+      "value" : "RESP,"
+    }, {
+      "key" : "DEST",
+      "value" : "E3158,"
+    } ]
+  }, {
+    "ticketId" : 12540484,
+    "ticketSubsystem" : "HR_PVSTR  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E5087   ",
+    "ticketSenderLastName" : "CARISSIMI",
+    "ticketSenderFirstName" : "GIOVANNA",
+    "ticketAbstract" : "Ore 3 - 2018/3 per E5116    - GARELLI DARIO",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : true,
+    "approve" : false,
+    "reject" : false,
+    "display" : false,
+    "ticketPayload" : [ {
+      "key" : "La richiesta di straordinario relativa alla risorsa E5116    GARELLI DARIO per il periodo 2018/3 pari a 3 ore e' stata  Approvata."
+    } ],
+    "ticketKey" : [ {
+      "key" : "ANNO",
+      "value" : "2018,"
+    }, {
+      "key" : "MESE",
+      "value" : "3,"
+    }, {
+      "key" : "LAVORATORE",
+      "value" : "E5116,"
+    }, {
+      "key" : "RICHIEDENTE",
+      "value" : "E11832,"
+    } ]
+  }, {
+    "ticketId" : 12540544,
+    "ticketSubsystem" : "HR_PVSTR  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E5642   ",
+    "ticketSenderLastName" : "SORIANI",
+    "ticketSenderFirstName" : "ENRICO",
+    "ticketAbstract" : "Ore 2 - 2018/3 per E7152    - GUZZETTI ROBERTO",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : true,
+    "approve" : false,
+    "reject" : false,
+    "display" : false,
+    "ticketPayload" : [ {
+      "key" : "La richiesta di straordinario relativa alla risorsa E7152    GUZZETTI ROBERTO per il periodo 2018/3 pari a 2 ore e' stata  Approvata."
+    } ],
+    "ticketKey" : [ {
+      "key" : "ANNO",
+      "value" : "2018,"
+    }, {
+      "key" : "MESE",
+      "value" : "3,"
+    }, {
+      "key" : "LAVORATORE",
+      "value" : "E7152,"
+    }, {
+      "key" : "RICHIEDENTE",
+      "value" : "E11832,"
+    } ]
+  }, {
+    "ticketId" : 12540545,
+    "ticketSubsystem" : "HR_PVSTR  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "E5642   ",
+    "ticketSenderLastName" : "SORIANI",
+    "ticketSenderFirstName" : "ENRICO",
+    "ticketAbstract" : "Ore 2 - 2018/3 per E5687    - IACOBELLI GIOVANNI",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : true,
+    "approve" : false,
+    "reject" : false,
+    "display" : false,
+    "ticketPayload" : [ {
+      "key" : "La richiesta di straordinario relativa alla risorsa E5687    IACOBELLI GIOVANNI per il periodo 2018/3 pari a 2 ore e' stata  Approvata."
+    } ],
+    "ticketKey" : [ {
+      "key" : "ANNO",
+      "value" : "2018,"
+    }, {
+      "key" : "MESE",
+      "value" : "3,"
+    }, {
+      "key" : "LAVORATORE",
+      "value" : "E5687,"
+    }, {
+      "key" : "RICHIEDENTE",
+      "value" : "E11832,"
+    } ]
+  }, {
+    "ticketId" : 12540775,
+    "ticketSubsystem" : "HR_PVSTR  ",
+    "ticketSubsystemDescription" : "Visione d'Ufficio Entrata Merci (CP)",
+    "ticketSender" : "O137S   ",
+    "ticketSenderLastName" : "FERNANDES DO CARMO",
+    "ticketSenderFirstName" : "JANESSA",
+    "ticketAbstract" : "Ore 48 - 2018/3 per O359S    - FELIX DA SILVA CAMILLA",
+    "ticketCreationDate" : "2018-03-20T00:00:00Z",
+    "ack" : true,
+    "approve" : false,
+    "reject" : false,
+    "display" : false,
+    "ticketPayload" : [ {
+      "key" : "La richiesta di straordinario relativa alla risorsa O359S    FELIX DA SILVA CAMILLA per il periodo 2018/3 pari a 48 ore e' stata  Approvata."
+    } ],
+    "ticketKey" : [ {
+      "key" : "ANNO",
+      "value" : "2018,"
+    }, {
+      "key" : "MESE",
+      "value" : "3,"
+    }, {
+      "key" : "LAVORATORE",
+      "value" : "O359S,"
+    }, {
+      "key" : "RICHIEDENTE",
+      "value" : "O622S,"
+    } ]
+  } ]
