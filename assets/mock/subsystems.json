@@ -1,0 +1,63 @@
+[
+  {
+    "cod": "APPMASA2  ",
+    "num": 11,
+    "desc": "Visione d'Ufficio Entrata Merci (CP)"
+  },
+  {
+    "cod": "HR_RICHASS",
+    "num": 7,
+    "desc": "Visione d'Ufficio Entrata Merci (CP)"
+  },
+  {
+    "cod": "RASDIP_2F ",
+    "num": 7,
+    "desc": "Visione d'Ufficio Entrata Merci (CP)"
+  },
+  {
+    "cod": "OMASSC12  ",
+    "num": 6,
+    "desc": "Visione d'Ufficio Entrata Merci (CP)"
+  },
+  {
+    "cod": "APPENMER  ",
+    "num": 5,
+    "desc": "Visione d'Ufficio Entrata Merci (CP)"
+  },
+  {
+    "cod": "HR_PVSTR  ",
+    "num": 4,
+    "desc": "Visione d'Ufficio Entrata Merci (CP)"
+  },
+  {
+    "cod": "APPMOVTP1 ",
+    "num": 3,
+    "desc": "Visione d'Ufficio Entrata Merci (CP)"
+  },
+  {
+    "cod": "SIFO_APPR ",
+    "num": 3,
+    "desc": "Visione d'Ufficio Entrata Merci (CP)"
+  },
+  {
+    "cod": "APPMOVTP2 ",
+    "num": 2,
+    "desc": "Visione d'Ufficio Entrata Merci (CP)"
+  },
+  {
+    "cod": "ODF_1F    ",
+    "num": 2,
+    "desc": "Visione d'Ufficio Entrata Merci (CP)"
+  },
+  {
+    "cod": "ODF_2F    ",
+    "num": 2,
+    "desc": "Visione d'Ufficio Entrata Merci (CP)"
+  }
+  {
+    "cod": "RASDIP_1F ",
+    "num": 2,
+    "desc": " Visione d'Ufficio Entrata Merci (CP)"
+  }
+  
+]
